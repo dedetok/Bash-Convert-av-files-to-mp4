@@ -15,4 +15,4 @@ $ ls | grep  2021-08-15
 2021-08-15
 2021-08-15-mp4
 
-av files is raw h264
+av files are raw h264
